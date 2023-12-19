@@ -1,3 +1,3 @@
 # apnagit
 this is my first repo <br>
-Author - Syed Raheem
+Author - Syed Raheem created by me for practise
